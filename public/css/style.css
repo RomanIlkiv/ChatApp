@@ -132,9 +132,6 @@ button:disabled {
   padding: 10px;
   /*height: 60px;*/
   flex-shrink: 0;
-  position: absolute;
-    width: 80%;
-    bottom: 0;
 }
 
 .chat__footer form {
